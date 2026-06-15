@@ -1,3 +1,4 @@
+# Generics allow you to write classes, interfaces, and methods that work with multiple, unspecified data types while enforcing strict type-checking at compile-time. They are foundational for clean and robust programming.
 # Generics, available since JSE 5.0, have made using the Java Collection Framework easier, more convenient, and safer. Type misuse errors are now detected at compile time.
 '''java
 List list = new ArrayList();
